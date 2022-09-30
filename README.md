@@ -1,4 +1,5 @@
-# MyVScodes-smooth-scrollbar-inblognt.online/Team-
+#see  the scorllbar site in github/webpages   >>>> (https://inblognet.github.io/MyVScodes-smooth-scrollbar-inblogn-/)
+#MyVScodes-smooth-scrollbar-inblognt.online/Team-
 I will create a smooth scroll bar using HTML and CSS -easy to create this, try it your self... if you getting wrong send a email I will solve it
 [email(kishudilantha@gmail.com)]
 ---------------------------------------------------------------------------------------------------------------------------------------------------
