@@ -1,5 +1,6 @@
 # MyVScodes-smooth-scrollbar-inblognt.online/Team-
-I will create a smooth scroll bar using HTML and CSS -easy to create this, try it your self... if you getting wrong send a email I will solve it email(kishudilantha@gmail.com)
+I will create a smooth scroll bar using HTML and CSS -easy to create this, try it your self... if you getting wrong send a email I will solve it
+[email(kishudilantha@gmail.com)]
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 --()---New things  will upload soon /you can use my templete for leaning purpose----------()--
 |________________________________________________________________________|
